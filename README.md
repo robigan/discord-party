@@ -23,3 +23,6 @@ Now you're setup with a venv and the dependencies, you can now execute the progr
 python main.py
 ```
 Now you have 5 seconds to focus on a discord window in a channel
+
+# Current features
+The current version of the program can do you 7 achievements in one go if you've just turned on party mode
